@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**santigg23/santigg23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Santiago Galvis | Full Stack Developer
 
-Here are some ideas to get you started:
+¡Hola! Soy desarrollador web full stack en formación con el SENA, especializado en tecnologías modernas como:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Frontend: HTML, CSS, JavaScript, React
+- ⚙️ Backend: Node.js, Express
+- 🛢️ Base de Datos: MySQL (MySQL Workbench)
+- 🧠 Interés autodidacta: Bash y Python para scripting y automatización
+
+---
+
+## 🚀 Proyectos Destacados
+
+- 📦 **[NombreProyecto1](https://github.com/tuusuario/nombreproyecto1)** – Aplicación web completa para gestión de inventarios y ventas.
+- 🛡️ **0verløkd (en desarrollo)** – Iniciativa para proteger a los usuarios en la red, mediante resúmenes comprensibles de políticas de privacidad.
+- 📁 **[NombreProyecto2](https://github.com/tuusuario/nombreproyecto2)** – Sitio estático moderno con React y TailwindCSS.
+
+---
+
+## 🎯 Objetivo Profesional
+
+Crear soluciones eficientes, seguras y accesibles en la web. Me motiva especialmente la transparencia digital y el desarrollo de herramientas útiles para la sociedad. Mi propósito es dejar huella como desarrollador y como persona.
+
+---
+
+## 📫 Contacto
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 📂 [Portafolio Web (próximamente)]()
+- 🐙 Este perfil es parte de mi crecimiento como profesional. Pronto publicaré nuevos proyectos que representan mi visión y compromiso.
+
+---
+
+> “Aceptas si quieres, pero que sea sabiendo lo que entregas.” – 0verløkd
